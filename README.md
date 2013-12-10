@@ -1,4 +1,4 @@
-Laravel + Vagrant + Ansible
+Laravel 4.0.x + Vagrant + Ansible
 =======================
 
 Laravel Vagrant Box using Ansible 
